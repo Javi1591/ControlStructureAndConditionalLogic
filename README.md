@@ -5,7 +5,7 @@ These assignments continue building upon prior Java fundamentals while emphasizi
 
 ---
 
-## 📘 Assignment 3 – Decision-Making with if-else Statements
+## Assignment 3 – Decision-Making with if-else Statements
 
 ### Description
 A Java console program that prompts the user for specific input (such as test scores, numeric ranges, or categories) and responds with an appropriate message or classification.  
@@ -28,7 +28,7 @@ It uses **if-else** and **nested conditionals** to evaluate multiple criteria.
 
 ---
 
-## 📗 Assignment 4 – Switch Statements and Menu-Driven Programs
+## Assignment 4 – Switch Statements and Menu-Driven Programs
 
 ### Description
 A menu-driven Java application that demonstrates the use of the **`switch`** statement for multi-path decision logic.  
@@ -51,7 +51,7 @@ The program allows a user to select from various options (e.g., unit conversions
 
 ---
 
-## 🧩 Program Structure
+## Program Structure
 
 Each Java file includes:
 - Proper header comments (author, date, description).  
@@ -61,7 +61,7 @@ Each Java file includes:
 
 ---
 
-## ⚙️ How to Compile and Run
+## How to Compile and Run
 
 ### Requirements
 - Java Development Kit (JDK) 17 or newer  
